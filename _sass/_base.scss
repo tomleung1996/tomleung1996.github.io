@@ -601,8 +601,9 @@ footer.sticky-bottom {
         border-color: var(--global-text-color);
         margin-block-start: 0.8rem;
         box-shadow:0 2px 12px 0 #666;
+        border-radius: 8px;
         p {
-          font-size: 0.8rem;
+          font-size: 0.9rem;
           color: #3c4858;
         }
       }
