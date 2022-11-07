@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /cv-disable32948/
 title: cv
 nav: false
 nav_order: 4
