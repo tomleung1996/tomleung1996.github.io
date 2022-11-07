@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: \* denotes the corresponding author(s).
+description: "* denotes the corresponding author(s)."
 years: [2022, 2021, 2020, 2019]
 nav: true
 nav_order: 1
