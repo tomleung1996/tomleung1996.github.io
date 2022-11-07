@@ -229,8 +229,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Liang, 梁]
-  first_name: [Zhentao, 镇涛]
+  last_name: [Liang, 镇涛]
+  first_name: [Zhentao, 梁]
 
   style: apa
   locale: en
