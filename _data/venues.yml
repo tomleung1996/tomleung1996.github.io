@@ -17,3 +17,7 @@
 "iConf":
   url: https://www.ischools.org/iconference
   color: "#2980b9"
+
+"图书馆论坛":
+  url: http://tsglt.zslib.com.cn/CN/volumn/home.shtml
+  color: "#16a085"
