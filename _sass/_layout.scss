@@ -52,3 +52,45 @@ body.sticky-bottom-footer {
 div.clearfix {
   text-align: justify;
 }
+
+
+.periodical {
+  font-size: 14px;
+}
+
+.author {
+  font-size: 14px;
+}
+
+h5.title {
+  font-size: 1.1rem;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  margin-block-start: 0;
+  margin-block-end: 0.2rem;
+  font-family: "Roboto Slab", "Times New Roman", serif;
+}
+
+.publications {
+  h2 {
+    font-size: 1.5rem;
+  }
+}
+
+h1.post-title {
+  font-family: "Roboto Slab", "Times New Roman", serif;
+  color: #3c4858;
+
+  span {
+    color: #3c4858;
+  }
+}
+
+div.address {
+  margin-block-start: 0.3rem;
+  margin-block-end: 0.3rem;
+}
+
+#progress {
+  height: 3px;
+}
