@@ -530,8 +530,9 @@ footer.sticky-bottom {
           }
         }
         > em {
-          border-bottom: 1px solid;
           font-style: normal;
+          font-weight: bold;
+          color: #c0392b;
         }
         > span.more-authors {
           color: var(--global-text-color-light);
