@@ -10,7 +10,8 @@ profile:
   image_circular: ture # crops the image to make it circular
   address: >
     <p>Room number 312</p>
-    <p>School of Information Management, Wuhan University</p>
+    <p>School of Information Management</p>
+    <p>Wuhan University</p>
     <p>Wuhan 430072, China</p>
 
 news: false  # includes a list of news items
