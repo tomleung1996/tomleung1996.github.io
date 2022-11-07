@@ -595,10 +595,16 @@ footer.sticky-bottom {
         transition: all 0.15s ease;
       }
       div.abstract.hidden {
-        border: dashed 1px var(--global-bg-color);
+        // border: dashed 1px var(--global-bg-color);
       }
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
+        margin-block-start: 0.8rem;
+        box-shadow:0 2px 12px 0 #666;
+        p {
+          font-size: 0.8rem;
+          color: #3c4858;
+        }
       }
     }
   }
