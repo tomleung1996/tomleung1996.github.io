@@ -9,7 +9,7 @@ profile:
   image: profile_pic.jpg
   image_circular: ture # crops the image to make it circular
   address: >
-    <p>Room number 312</p>
+    <p>Room number 308</p>
     <p>School of Information Management</p>
     <p>Wuhan University</p>
     <p>Wuhan 430072, China</p>
@@ -19,6 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Zhentao Liang (梁镇涛) is a Ph.D. candidate in Information Science at the School of Information, Wuhan University, advised by Prof. [Gang Li](https://sim.whu.edu.cn/info/1050/4928.htm). He is currently a visiting researcher at the Centre for Science and Technology Studies (CWTS) of Leiden University, working on fine-grained research linkage identification with Dr. [Nees Jan van Eck](https://www.cwts.nl/people/nees-jan-van-eck).
-
-His research interests widely include cross-disciplinary knowledge diffusion analysis, emerging topic identification, and full-text scientific document analysis.
+Zhentao Liang (梁镇涛) is a postdoctoral researcher in Information Science at the School of Information, Wuhan University. His research focuses on scientometric approaches to understanding the dynamics of scientific knowledge, with particular emphasis on the identification, measurement, and prediction of emerging and interdisciplinary research topics. He works closely together with Prof. [Gang Li](https://sim.whu.edu.cn/info/1560/13323.htm) and Prof. [Jin Mao](https://jszy.whu.edu.cn/maojin).
