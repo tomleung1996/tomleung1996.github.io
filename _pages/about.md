@@ -19,4 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Zhentao Liang (梁镇涛) is a postdoctoral researcher in Information Science at the School of Information, Wuhan University. His research focuses on scientometric approaches to understanding the dynamics of scientific knowledge, with particular emphasis on the identification, measurement, and prediction of emerging and interdisciplinary research topics. He works closely together with Prof. [Gang Li](https://sim.whu.edu.cn/info/1560/13323.htm) and Prof. [Jin Mao](https://jszy.whu.edu.cn/maojin).
+Zhentao Liang (梁镇涛) is a postdoctoral researcher at the School of Information, Wuhan University. His research focuses on scientometric approaches to understanding the dynamics of scientific knowledge, with particular emphasis on the identification, measurement, and prediction of emerging and interdisciplinary research topics. 
+
+He works closely together with Prof. [Gang Li](https://sim.whu.edu.cn/info/1560/13323.htm) and Prof. [Jin Mao](https://jszy.whu.edu.cn/maojin).
