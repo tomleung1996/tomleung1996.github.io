@@ -16,7 +16,7 @@ page-layout: full
 # Zhentao Liang
 
 ::: {.hero-bio}
-Zhentao Liang (梁镇涛) is a Hongyi Postdoctoral Fellow at the [School of Information Management, Wuhan University](https://sim.whu.edu.cn/), and currently a visiting scholar at the [Centre for Science and Technology Studies (CWTS)](https://www.cwts.nl/), Leiden University. He received his Ph.D. in Information Science from Wuhan University, supervised by Prof. [Gang Li](https://sim.whu.edu.cn/), and was jointly trained at CWTS as a China Scholarship Council fellow under Dr. [Nees Jan van Eck](https://www.cwts.nl/). He received his B.A. from [Sun Yat-sen University](https://www.sysu.edu.cn/).
+Zhentao Liang (梁镇涛) is a Hongyi Postdoctoral Fellow at the [School of Information Management, Wuhan University](https://sim.whu.edu.cn/), and currently a visiting scholar at the [Centre for Science and Technology Studies (CWTS)](https://www.cwts.nl/), Leiden University. He received his Ph.D. in Information Science from Wuhan University, supervised by Prof. [Gang Li](https://sim.whu.edu.cn/info/1560/13323.htm), and was jointly trained at CWTS as a China Scholarship Council fellow under Dr. [Nees Jan van Eck](https://www.universiteitleiden.nl/en/staffmembers/nees-jan-van-eck). He received his B.A. from [Sun Yat-sen University](https://www.sysu.edu.cn/).
 
 His research applies scientometric and computational approaches to understand the dynamics of scientific knowledge systems. Specifically, his research focuses on three threads:
 
