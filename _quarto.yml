@@ -6,6 +6,8 @@ project:
     - CNAME
     - .nojekyll
 
+pagetitle: "Zhentao Liang"
+
 website:
   title: "Zhentao Liang"
   site-url: "https://www.tomleung.cn"
