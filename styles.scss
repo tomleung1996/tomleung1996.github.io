@@ -80,7 +80,16 @@ body {
 
 main.content {
   padding-top: 1.8rem;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
+  text-wrap: pretty;
+}
+
+#quarto-content.quarto-container.page-rows-contents {
+  min-height: 0 !important;
+  grid-template-rows:
+    [content-top] max-content
+    [content-bottom] minmax(0.75rem, max-content)
+    [page-bottom];
 }
 
 .home-page #title-block-header {
