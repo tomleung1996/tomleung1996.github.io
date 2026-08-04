@@ -1,5 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ZL">
-  <rect width="64" height="64" rx="18" fill="#0c6b67"/>
-  <path d="M15 18h26v6L24 42h18v7H14v-6l17-18H15z" fill="#fbfaf7"/>
-  <path d="M45 15h6v34h-6z" fill="#b9ded9"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Z monogram">
+  <rect width="64" height="64" rx="12" fill="#713149"/>
+  <path d="M14 18h36L14 46h36" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="butt" stroke-linejoin="miter"/>
 </svg>
