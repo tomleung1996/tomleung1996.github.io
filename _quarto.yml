@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/
+    - CNAME
+    - .nojekyll
+
+website:
+  title: "Zhentao Liang"
+  site-url: "https://www.tomleung.cn"
+  description: "Zhentao Liang is a researcher in scientometrics, science mapping, scholarly communication, and interdisciplinary research."
+  favicon: assets/img/favicon.svg
+  navbar:
+    pinned: true
+    background: "#713149"
+    foreground: "#ffffff"
+    title: "Zhentao Liang"
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Publications
+        href: publications/index.qmd
+      - text: Projects
+        href: projects/index.qmd
+      - text: 中文简历
+        href: cv/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/tomleung1996
+        aria-label: GitHub
+        target: _blank
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=UwWFVMcAAAAJ
+        aria-label: Google Scholar
+        target: _blank
+      - icon: envelope
+        href: mailto:liangzht5@whu.edu.cn
+        aria-label: Email
+  page-footer:
+    center: "© 2026 Zhentao Liang"
+  open-graph: true
+  search: false
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      body-width: 1120px
+      margin-width: 160px
+      gutter-width: 2rem

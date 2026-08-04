@@ -1,0 +1,12 @@
+---
+title: Curriculum Vitae
+body-classes: cv-page
+---
+
+<div class="cv-viewer">
+  <iframe
+    src="../assets/pdf/cv.pdf#view=FitH&toolbar=1&navpanes=0"
+    title="Zhentao Liang curriculum vitae"
+    tabindex="-1"
+  ></iframe>
+</div>

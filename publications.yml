@@ -1,0 +1,97 @@
+- title: "Eclipsing or enlightening? Unravelling the peer effects of star doctoral students in STEM fields in China"
+  author: "Wenjun He, Jin Mao^*^, **Zhentao Liang**, and Gang Li^*^"
+  date: 2026-06-05
+  description: "*Higher Education*, online first."
+  path: https://doi.org/10.1007/s10734-026-01704-3
+  categories: [Academic careers, Peer effects]
+
+- title: "Multi-Dimensional Comparative Analysis of Patent-to-Patent Citations and Patent-to-Paper Citations"
+  author: "Dangyi Zou, Jin Mao^*^, **Zhentao Liang**, and Xi Chen"
+  date: 2026-06-04
+  description: "*Journal of Data and Information Science*, 11(3), 18-36."
+  path: https://doi.org/10.1515/jdis-2025-0357
+  categories: [Science-technology linkage, Patent citations]
+
+- title: "Citation importance-aware document representation learning for large-scale science mapping"
+  author: "**Zhentao Liang**, Nees Jan van Eck, Xuehua Wu, Jin Mao^*^, and Gang Li"
+  date: 2026-04-01
+  description: "*Information Processing & Management*, 63, 104557."
+  path: https://doi.org/10.1016/j.ipm.2025.104557
+  categories: [Science mapping, Representation learning]
+
+- title: "Measuring knowledge complexity in the biomedical domain based on a question-method knowledge representation model"
+  author: "Ming Ma, Jin Mao^*^, **Zhentao Liang**, Zhejun Zheng, and Gang Li"
+  date: 2025-05-01
+  description: "*Journal of Informetrics*, 19, 101667."
+  path: https://doi.org/10.1016/j.joi.2025.101667
+  categories: [Knowledge complexity, Biomedical science]
+
+- title: "Bias against scientific novelty: A prepublication perspective"
+  author: "**Zhentao Liang**, Jin Mao^*^, and Gang Li^*^"
+  date: 2023-01-01
+  description: "*Journal of the Association for Information Science and Technology*, 74(1), 99-114."
+  path: https://doi.org/10.1002/asi.24725
+  categories: [Scientific novelty, Scholarly communication]
+
+- title: "Quantifying scientific breakthroughs by a novel disruption indicator based on knowledge entities"
+  author: "Shiyun Wang, Yaxue Ma^*^, Jin Mao^*^, Yun Bai, **Zhentao Liang**, and Gang Li"
+  date: 2023-01-01
+  description: "*Journal of the Association for Information Science and Technology*, 74(2), 150-167."
+  path: https://doi.org/10.1002/asi.24719
+  categories: [Scientific breakthroughs, Disruption]
+
+- title: "Research complexity increases with scientists' academic age: Evidence from library and information science"
+  author: "**Zhentao Liang**, Zhichao Ba^*^, Jin Mao, and Gang Li"
+  date: 2023-01-01
+  description: "*Journal of Informetrics*, 17(1), 101375."
+  path: https://doi.org/10.1016/j.joi.2022.101375
+  categories: [Research complexity, Scientific careers]
+
+- title: "Semantic-enhanced topic evolution analysis: A combination of the dynamic topic model and word2vec"
+  author: "Qiang Gao, Xiao Huang^*^, Ke Dong, **Zhentao Liang**, and Jiang Wu"
+  date: 2022-01-01
+  description: "*Scientometrics*, 127(3), 1543-1563."
+  path: https://doi.org/10.1007/s11192-022-04275-z
+  categories: [Topic evolution, Semantic analysis]
+
+- title: "A novel approach to measuring science-technology linkage: From the perspective of knowledge network coupling"
+  author: "Zhichao Ba and **Zhentao Liang**^*^"
+  date: 2021-01-01
+  description: "*Journal of Informetrics*, 15(3), 101167."
+  path: https://doi.org/10.1016/j.joi.2021.101167
+  categories: [Science-technology linkage, Networks]
+
+- title: "Combining deep neural network and bibliometric indicator for emerging research topic prediction"
+  author: "**Zhentao Liang**, Jin Mao^*^, Kun Lu, Zhichao Ba, and Gang Li"
+  date: 2021-01-01
+  description: "*Information Processing & Management*, 58(5), 102611."
+  path: https://doi.org/10.1016/j.ipm.2021.102611
+  categories: [Emerging topics, Machine learning]
+
+- title: "Exploring the effect of city-level collaboration and knowledge networks on innovation: Evidence from the energy conservation field"
+  author: "Zhichao Ba, Jin Mao, Yaxue Ma^*^, and **Zhentao Liang**"
+  date: 2021-01-01
+  description: "*Journal of Informetrics*, 15(3), 101198."
+  path: https://doi.org/10.1016/j.joi.2021.101198
+  categories: [Collaboration networks, Innovation]
+
+- title: "Finding citations for PubMed: A large-scale comparison between five freely available bibliographic data sources"
+  author: "**Zhentao Liang**, Jin Mao^*^, Kun Lu, and Gang Li"
+  date: 2021-01-01
+  description: "*Scientometrics*, 126(12), 9519-9542."
+  path: https://doi.org/10.1007/s11192-021-04191-8
+  categories: [Citation data, Bibliographic databases]
+
+- title: "Potential index: Revealing the future impact of research topics based on current knowledge networks"
+  author: "Qiang Gao, **Zhentao Liang**, Ping Wang^*^, Jingrui Hou, Xiuxiu Chen, and Manman Liu"
+  date: 2021-01-01
+  description: "*Journal of Informetrics*, 15(3), 101165."
+  path: https://doi.org/10.1016/j.joi.2021.101165
+  categories: [Research topics, Knowledge networks]
+
+- title: "Quantifying cross-disciplinary knowledge flow from the perspective of content: Introducing an approach based on knowledge memes"
+  author: "Jin Mao, **Zhentao Liang**^*^, Yujie Cao, and Gang Li"
+  date: 2020-01-01
+  description: "*Journal of Informetrics*, 14(4), 101092."
+  path: https://doi.org/10.1016/j.joi.2020.101092
+  categories: [Knowledge diffusion, Interdisciplinarity]

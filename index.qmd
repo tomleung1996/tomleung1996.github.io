@@ -1,0 +1,28 @@
+---
+title: "Zhentao Liang"
+title-block-style: none
+body-classes: home-page
+page-layout: full
+---
+
+::: {.hero}
+::: {.hero-photo}
+::: {.profile-frame}
+![](assets/img/profile_pic.jpg){fig-alt="Portrait of Zhentao Liang"}
+:::
+:::
+
+::: {.hero-copy}
+# Zhentao Liang
+
+::: {.hero-bio}
+Zhentao Liang (梁镇涛) is a Hongyi Postdoctoral Fellow at the [School of Information Management, Wuhan University](https://sim.whu.edu.cn/), and currently a visiting scholar at the [Centre for Science and Technology Studies (CWTS)](https://www.cwts.nl/), Leiden University. He received his Ph.D. in Information Science from Wuhan University, supervised by Prof. [Gang Li](https://sim.whu.edu.cn/), and was jointly trained at CWTS as a China Scholarship Council fellow under Dr. [Nees Jan van Eck](https://www.cwts.nl/). He received his B.A. from [Sun Yat-sen University](https://www.sysu.edu.cn/).
+
+His research applies scientometric and computational approaches to understand the dynamics of scientific knowledge systems. Specifically, his research focuses on three threads:
+
+- **Scientific innovation and its predictability.** Identification and explainable prediction of scientific innovation, with particular attention to cross-disciplinary convergence and disruptive breakthroughs, and to the structural and intellectual conditions that give rise to transformative research.
+- **Large-scale science mapping.** Computational approaches to characterizing the structure of science at scale, drawing on multiple relational perspectives, including topical, methodological, and epistemic linkages, to reveal how knowledge is connected, clustered, and reorganized over time.
+- **Societal reach of basic research.** The relationship between science and technology as two distinct yet intertwined knowledge systems, tracing how findings from basic research are absorbed into technological development and where societal value is generated in the process.
+:::
+:::
+:::

@@ -1,0 +1,20 @@
+---
+title: Selected English publications
+body-classes: publications-page
+listing:
+  contents: ../publications.yml
+  type: default
+  sort: "date desc"
+  fields: [date, title, author, description]
+  date-format: "YYYY"
+  page-size: 20
+  categories: false
+  sort-ui: false
+  filter-ui: true
+---
+
+<div class="publications-meta">
+  <span class="corresponding-author-note"><sup>*</sup> Corresponding author</span>
+</div>
+
+<script src="../assets/js/publications.js"></script>

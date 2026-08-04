@@ -1,0 +1,16 @@
+---
+title: Funded research projects
+body-classes: projects-page
+listing:
+  contents: ../projects.yml
+  template: _project-listing.ejs.md
+  sort: false
+  fields: [period, title, funder]
+  categories: false
+  sort-ui: false
+  filter-ui: false
+---
+
+<div class="projects-meta">
+  <span>Principal Investigator</span>
+</div>
