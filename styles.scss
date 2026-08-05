@@ -222,6 +222,42 @@ p {
   box-shadow: 0 16px 40px rgba(48, 39, 41, 0.13);
 }
 
+.profile-contact {
+  max-width: 265px;
+  margin-top: 1.05rem;
+}
+
+.profile-contact > p {
+  display: grid;
+  gap: 0.42rem;
+  margin: 0;
+}
+
+.profile-contact a {
+  display: flex;
+  gap: 0.62rem;
+  align-items: center;
+  padding: 0.08rem 0;
+  color: var(--muted);
+  font-size: 0.84rem;
+  font-weight: 500;
+  line-height: 1.4;
+  text-decoration: none;
+  transition: color 150ms ease;
+}
+
+.profile-contact a:hover,
+.profile-contact a:focus-visible {
+  color: var(--accent);
+}
+
+.profile-contact .bi {
+  width: 1rem;
+  flex: 0 0 1rem;
+  font-size: 0.95rem;
+  text-align: center;
+}
+
 .home-section {
   padding: 4.2rem 0;
   border-top: 1px solid var(--line);
@@ -596,6 +632,12 @@ p {
   .profile-frame {
     width: min(56vw, 210px);
     margin: 0 auto;
+  }
+
+  .profile-contact {
+    width: min(56vw, 210px);
+    margin-right: auto;
+    margin-left: auto;
   }
 
   .hero-copy {
