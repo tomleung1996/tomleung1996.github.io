@@ -13,9 +13,9 @@ page-layout: full
 
 <div class="profile-contact" aria-label="Contact links">
   <a href="mailto:liangzht5@whu.edu.cn"><i class="bi bi-envelope" aria-hidden="true"></i><span>liangzht5@whu.edu.cn</span></a>
-  <a href="https://orcid.org/0000-0003-2927-3523"><i class="bi bi-person-badge" aria-hidden="true"></i><span>0000-0003-2927-3523</span></a>
+  <a href="https://orcid.org/0000-0003-2927-3523"><svg class="contact-icon contact-icon-orcid" viewBox="0 0 72 72" aria-hidden="true"><path fill="currentColor" d="M72 36c0 19.884-16.116 36-36 36S0 55.884 0 36 16.116 0 36 0s36 16.116 36 36Z"/><g fill="#fff" transform="translate(18.869 12.91)"><path d="M5.037 39.125H.695V9.144h4.342v29.981Z"/><path d="M11.409 9.144h11.729c11.165 0 16.071 7.922 16.071 15.005 0 7.698-6.062 15.004-16.015 15.004H11.409V9.144Zm4.342 26.118h6.908c9.84 0 12.095-7.418 12.095-11.113 0-6.019-3.863-11.114-12.321-11.114h-6.682v22.227Z"/><path d="M5.714 2.902a2.84 2.84 0 0 1-2.848 2.827A2.83 2.83 0 0 1 .019 2.902 2.82 2.82 0 0 1 2.866.075 2.83 2.83 0 0 1 5.714 2.902Z"/></g></svg><span>0000-0003-2927-3523</span></a>
   <a href="https://scholar.google.com/citations?user=UwWFVMcAAAAJ"><i class="bi bi-mortarboard" aria-hidden="true"></i><span>Google Scholar</span></a>
-  <a href="https://github.com/tomleung1996"><i class="bi bi-github" aria-hidden="true"></i><span>GitHub</span></a>
+  <a href="https://github.com/tomleung1996"><i class="bi bi-github" aria-hidden="true"></i><span>tomleung1996</span></a>
 </div>
 :::
 

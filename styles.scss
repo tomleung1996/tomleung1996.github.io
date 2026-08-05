@@ -251,11 +251,17 @@ p {
   color: var(--accent);
 }
 
-.profile-contact .bi {
+.profile-contact .bi,
+.profile-contact .contact-icon {
   width: 1rem;
   flex: 0 0 1rem;
   font-size: 0.95rem;
   text-align: center;
+}
+
+.profile-contact .contact-icon {
+  display: block;
+  height: 1rem;
 }
 
 .home-section {
