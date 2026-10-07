@@ -1,3 +1,10 @@
+- title: "From citation intent to knowledge contribution: Classifying what cited papers actually contribute"
+  author: "Zhibang Quan, **Zhentao Liang**, Ming Ma, Jinyu Wei, Gang Li, and Jin Mao^*^"
+  date: 2026-10-01
+  description: "*Journal of the Association for Information Science and Technology*, online first."
+  path: https://doi.org/10.1002/asi.70127
+  categories: [Citation intent, Knowledge contribution]
+
 - title: "A large-scale dataset of sub-institution name disambiguation and hierarchical structures from OpenAlex"
   author: "**Zhentao Liang**, Jin Mao^*^, and Gang Li"
   date: 2026-08-19
